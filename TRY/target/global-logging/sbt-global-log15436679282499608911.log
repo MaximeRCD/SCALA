@@ -1,0 +1,11 @@
+[debug] > Exec(paste -raw, None, None)
+[error] Expected ID character
+[error] Not a valid command: paste (similar: last, lastGrep, last-grep)
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: paste (similar: update, state, ps)
+[error] paste -raw
+[error]      ^
+[debug] > Exec(idea-shell, None, None)

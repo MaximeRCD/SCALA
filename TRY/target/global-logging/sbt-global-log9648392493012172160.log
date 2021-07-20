@@ -1,0 +1,11 @@
+[debug] > Exec(scala version, None, None)
+[error] Expected ID character
+[error] Not a valid command: scala (similar: alias, last, eval)
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: scala (similar: scalaHome, scalaSource, clean)
+[error] scala version
+[error]      ^
+[debug] > Exec(idea-shell, None, None)
